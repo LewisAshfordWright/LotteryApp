@@ -1,0 +1,15 @@
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\bin\Debug\net8.0\LotteryApplication.exe
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\bin\Debug\net8.0\LotteryApplication.deps.json
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\bin\Debug\net8.0\LotteryApplication.runtimeconfig.json
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\bin\Debug\net8.0\LotteryApplication.dll
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\bin\Debug\net8.0\LotteryApplication.pdb
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\obj\Debug\net8.0\LotteryApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\obj\Debug\net8.0\LotteryApplication.AssemblyInfoInputs.cache
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\obj\Debug\net8.0\LotteryApplication.AssemblyInfo.cs
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\obj\Debug\net8.0\LotteryApplication.csproj.CoreCompileInputs.cache
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\obj\Debug\net8.0\LotteryApplication.sourcelink.json
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\obj\Debug\net8.0\LotteryApplication.dll
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\obj\Debug\net8.0\refint\LotteryApplication.dll
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\obj\Debug\net8.0\LotteryApplication.pdb
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\obj\Debug\net8.0\LotteryApplication.genruntimeconfig.cache
+C:\Users\dewey\source\repos\LotteryApp\LotteryApplication\LotteryApplication\obj\Debug\net8.0\ref\LotteryApplication.dll
